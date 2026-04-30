@@ -6,7 +6,7 @@ void imprimir(char s[]);
 
 int main() {
     // Declaración de la cadena
-    char nombre[] = "Facultad de Ingeniería";
+    char nombre[] = "Facultad de Ingenieria";
     
     // Llamada a la función
     imprimir(nombre);
